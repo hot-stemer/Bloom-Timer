@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloom Timer🌸</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="garden" id="garden">
+        
+    </div>
+    
+    <header>
+        <h1><span class="flower">🌸</span>Bloom Timer</h1>
+    </header>
+
+     
+
+    <section id="choosingMode" class="active">
+    <div class="mainBox">
+        <h2 class="title">🌸studying now and plant a little bloom!</h2>
+        <div class="StateMsg">how long can you lock in?</div>
+        <div class="buttons"><button class="sessionBtn" id="longSession"><span class="emoji">🌳</span>Long session</button>
+        <button class="sessionBtn" id="meduimSession"><span class="emoji">🌸</span>Medium session</button>
+        <button class="sessionBtn" id="shortSession"><span class="emoji">🌱</span>Short session</button></div>
+        <button class="startbtn" id="srartBtn">Start Session</button>
+    </div></section>
+
+    <section id="focueMode">
+        <div class="mainBox">
+            <h1 class="title" id="focusTitle">🌸AWW, LOOK WHO IS COOKING!</h1>
+            <div class="🌱">
+                <h1 class="alive">🌱</h1>
+                <p>you are in, keep up the hard work!</p>
+            </div> 
+            <div class="restartBox">
+            <button id="restartSession" class="startbtn">End Session</button>
+            <p>plzz dont give up you got this !</p></div>
+        </div>
+    </section> 
+
+    <section id="breakMode">
+     <div class="mainBox">
+        <h1 id="breakTitle">OHH give yourself a treat!</h1>
+        <div class="🍨">
+            <h1 class="alive">🍨</h1>
+            <p>it is a <span id="breakLength"></span> break!</p></div>
+            <p id="breakIdea">break ideas go here</p>
+            <button class="startbtn" id="skipBtn">skip break</button>
+            <p>we wouldnt recommend that</p>
+     </div>
+    </section>
+   
+    <script src="index.js" defer></script>
+</body>
+</html>
