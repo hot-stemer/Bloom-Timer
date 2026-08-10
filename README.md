@@ -39,5 +39,5 @@ every completed session you add a small flower to the background 🌷!
     - explains some concepts related !
 
   # Inspired from Neuroscince concepts:
-  > bloomd mechanism is actually based on real neuroscince concept (**Dopamine Reward Error**) which simply states that that the brain uses dopamine to calculate the difference between teh expected and actual reward.
+  > bloom's mechanism is actually based on real neuroscince concept (**Dopamine Reward Error**) which simply states that that the brain uses dopamine to calculate the difference between teh expected and actual reward.
   > unexpected reward = more dopamine!
