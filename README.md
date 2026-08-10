@@ -21,7 +21,7 @@ every completed session you add a small flower to the background 🌷!
   <img width="889" height="665" alt="image" src="https://github.com/user-attachments/assets/5a5c1237-0b39-48f3-8e6f-a43b93a6d210" />
   4. A small flower is planted in the background! 
 
-### got excited? [try it here](https://guides.horizons.hackclub.com/guides/readme-guide/)
+### got excited? [try it here](https://guides.horizons.hackclub.com/guides/readme-guide/](https://hot-stemer.github.io/Bloom-Timer/)
 
   ## tools used :
   - HTML
