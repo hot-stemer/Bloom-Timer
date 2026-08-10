@@ -52,7 +52,7 @@ askforPermission();
 function randomLength(){
     const breakPrecent = Math.random()* (0.25 - 0.20) + 0.20
     if(selectedSessionMode === "short"){
-        sessionLength = Math.floor(Math.random()* (36 - 15 + 1 )+ 15);
+        sessionLength = Math.floor(Math.random()* (3600 - 1500 + 1 )+ 1500);
     }
     else if(selectedSessionMode === "medium"){
         sessionLength = Math.floor(Math.random()* (5400 - 3600 + 1 )+ 3600)
